@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%____Figure 4____%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%____Figure 5____%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This program computes time-frequency spectrum using MP algorithm
 % Run these codes from the MP/matlab folder or add this folder to your
 % Matlab path.

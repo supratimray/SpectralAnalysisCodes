@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%____Figure 2____%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%____Figure 3____%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This program computes the  time frequency spectra of a LFP signal using
 % the STFT, multi-taper (MTM) and Wavelet Transform (WT). It shows the
 % tiling diagram and some basis functions also.
